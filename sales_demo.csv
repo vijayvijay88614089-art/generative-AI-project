@@ -1,0 +1,25 @@
+date,region,product,category,units,unit_price,revenue,customer_segment
+2025-01-05,North,Notebook,Stationery,18,4.5,81.0,Student
+2025-01-08,South,Desk Lamp,Electronics,5,24.0,120.0,Home Office
+2025-01-12,East,Pen Set,Stationery,30,3.0,90.0,Student
+2025-01-17,West,Headphones,Electronics,4,45.0,180.0,Home Office
+2025-02-03,North,Desk Lamp,Electronics,7,24.0,168.0,Home Office
+2025-02-07,South,Notebook,Stationery,25,4.5,112.5,Student
+2025-02-14,East,Headphones,Electronics,6,45.0,270.0,Professional
+2025-02-21,West,Pen Set,Stationery,22,3.0,66.0,Student
+2025-03-02,North,Headphones,Electronics,8,45.0,360.0,Professional
+2025-03-09,South,Pen Set,Stationery,34,3.0,102.0,Student
+2025-03-15,East,Desk Lamp,Electronics,9,24.0,216.0,Home Office
+2025-03-23,West,Notebook,Stationery,20,4.5,90.0,Student
+2025-04-04,North,Pen Set,Stationery,40,3.0,120.0,Student
+2025-04-10,South,Headphones,Electronics,7,45.0,315.0,Professional
+2025-04-19,East,Notebook,Stationery,28,4.5,126.0,Student
+2025-04-26,West,Desk Lamp,Electronics,10,24.0,240.0,Home Office
+2025-05-06,North,Desk Lamp,Electronics,11,24.0,264.0,Home Office
+2025-05-13,South,Notebook,Stationery,32,4.5,144.0,Student
+2025-05-18,East,Pen Set,Stationery,38,3.0,114.0,Student
+2025-05-27,West,Headphones,Electronics,9,45.0,405.0,Professional
+2025-06-03,North,Notebook,Stationery,36,4.5,162.0,Student
+2025-06-11,South,Desk Lamp,Electronics,13,24.0,312.0,Home Office
+2025-06-17,East,Headphones,Electronics,10,45.0,450.0,Professional
+2025-06-24,West,Pen Set,Stationery,42,3.0,126.0,Student

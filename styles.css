@@ -1,0 +1,5 @@
+:root { --if-accent: #55d6be; }
+[data-testid="stAppViewContainer"] { background: linear-gradient(135deg, rgba(38,50,75,.12), transparent 44%); }
+[data-testid="stMetric"] { border: 1px solid rgba(128,150,190,.24); border-radius: 14px; padding: 14px 16px; background: rgba(255,255,255,.025); }
+[data-testid="stSidebar"] { border-right: 1px solid rgba(128,150,190,.20); }
+.if-card { border: 1px solid rgba(128,150,190,.22); border-radius: 16px; padding: 16px 18px; margin: 8px 0; }
